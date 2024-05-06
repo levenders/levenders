@@ -1,16 +1,14 @@
-### Hi there 👋
+# 👋 I'm Lev Enders - Frontend Developer
 
-<!--
-**levenders/levenders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Kazan, Russia](https://img.shields.io/badge/Location-Krasnoyarsk,%20Russia-blue)
+![Ready to move](https://img.shields.io/badge/Status-Ready%20to%20move-green)
+![Born in 1999](https://img.shields.io/badge/Born-2001-yellow)
 
-Here are some ideas to get you started:
+**Contact:**
+- Email: [levenders@mail.ru](levenders@mail.ru)
+- GitHub: [GitHub](https://github.com/levenders)
+- Habr: [Habr](https://career.habr.com/levenders)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Summary
+I am a beginner Frontend developer. Every day I develop my own projects or improve my current knowledge and skills, study new features of the language. I think that I am ready for commercial development because I am confident in my skills. Anything I don't know, I can easily find and study on my own or ask my colleagues politely and competently. I am able to work in a team.
+

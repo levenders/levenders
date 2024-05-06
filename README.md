@@ -1,8 +1,8 @@
 # 👋 I'm Lev Enders - Frontend Developer
 
-![Kazan, Russia](https://img.shields.io/badge/Location-Krasnoyarsk,%20Russia-blue)
+![Kazan, Russia](https://img.shields.io/badge/Location-Kazan,%20Russia-blue)
 ![Ready to move](https://img.shields.io/badge/Status-Ready%20to%20move-green)
-![Born in 1999](https://img.shields.io/badge/Born-2001-yellow)
+![Born in 1999](https://img.shields.io/badge/Born-1999-yellow)
 
 **Contact:**
 - Email: [levenders@mail.ru](levenders@mail.ru)

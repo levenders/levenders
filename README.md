@@ -1,4 +1,4 @@
-# 👋 I'm Lev Enders - Frontend Developer
+# 👋 I'm Lev - Frontend Developer
 
 ![Kazan, Russia](https://img.shields.io/badge/Location-Kazan,%20Russia-blue)
 ![Ready to move](https://img.shields.io/badge/Status-Ready%20to%20move-green)

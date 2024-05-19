@@ -6,7 +6,6 @@
 
 **Contact:**
 - Email: [levenders@mail.ru](levenders@mail.ru)
-- GitHub: [GitHub](https://github.com/levenders)
 - Habr: [Habr](https://career.habr.com/levenders)
 
 ## Summary
